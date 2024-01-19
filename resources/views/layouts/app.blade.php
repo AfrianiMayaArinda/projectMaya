@@ -17,7 +17,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
   <link rel="stylesheet" href="/lte/dist/css/adminlte.min.css">
 </head>
 <body class="hold-transition sidebar-mini">
-<div class="wrapper">
+<div class="wrapper"> 
 
   <!-- Navbar -->
   <nav class="main-header navbar navbar-expand navbar-white navbar-light">
@@ -57,7 +57,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
             <a href="/dashboard" class="nav-link">
               <i class="nav-icon fas fa-tachometer-alt"></i>
               <p>
-                Dashboard
+                Checksheet 
               </p>
             </a>
           </li>
@@ -197,10 +197,10 @@ scratch. This page gets rid of all links and provides the needed markup only.
   <footer class="main-footer">
     <!-- To the right -->
     <div class="float-right d-none d-sm-inline">
-      Anything you want
+      
     </div>
     <!-- Default to the left -->
-    <strong>Copyright &copy; {{ date('Y') }} <a href="https://adminlte.io">AdminLTE.io</a>.</strong> All rights reserved.
+    <strong>Copyright &copy; {{ date('Y') }} <a href="https://www.patria.co.id/">patria.co.id</a>.</strong> All rights reserved.
   </footer>
 </div>
 <!-- ./wrapper -->

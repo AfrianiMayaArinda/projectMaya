@@ -32,7 +32,7 @@ class SliderController extends Controller
      *
      * @param \Illuminate\Http\Request $request
      * @return \Iluminate\Http\Response
-     */
+     */ 
     public function store(Request $request)
     {
         //
@@ -72,7 +72,7 @@ class SliderController extends Controller
         //
     }
 
-    /**
+    **
      * Remove the specified resource from storage.
      *
      * @param \App\Models\Slider $slider

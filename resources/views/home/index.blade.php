@@ -32,7 +32,7 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ms-auto">
           <li class="nav-item">
-            <a class="nav-link fw-bolder active" href="index">Home</a>
+            <a class="nav-link fw-bolder active" href="index3">Home</a>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link fw-bolder dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
@@ -122,28 +122,32 @@
       </div>
       <div class="row mt-5">
         <div class="col-md-6" data-aos="fade-right">
-          <h3 class="fw-bold about-us-title">
+          <h6 class="fw-bold about-us-title">
              UBPK
-          </h3>
+          </h6>
           <p class="fw-bolder mt-4 about-us-subtitle">
-            UBPK merupakan plant dari PT. United Tractors Pandu Engineering
+            UBPK merupakan singkatan dari Unit Balikpapan Plant Kariangau. Grand Launching UBPK pada tanggal 15 Maret 2023.
+            UBPK saat ini berfokus pada Engineering dan Manufakturing untuk alat berat Mining, non Mining, dan 
+            Marine
           </p>
         </div>
         <div class="col-md-6" data-aos="fade-left">
           <p>
-            UBPK merupakan singkatan dari Unit Balikpapan Plant Kariangau. Grand Launching UBPK pada tanggal 15 Maret 2023
-            UBPK saat ini dibaw
+            
           </p>
           <ul class="list-group list-group-flush">
             <li class="list-group-item">
               <i class="fa fa-check-double primary"></i>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis,
-              laboriosam?
+              Vision : To be the best company that provides engineering & logistic 
+              solutions in heavy equipment, maritime, and energy industry
             </li>
             <li class="list-group-item">
               <i class="fa fa-check-double primary"></i>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis,
-              laboriosam?
+              Mission : 1. Prosper with the nation
+                        2. Excel in engineering, research and development 
+                        to provied sustainable value to our stakeholders
+                        3. Create a place for Patrian to grow and give the best 
+                        perfomance
             </li>
             <li class="list-group-item">
               <i class="fa fa-check-double primary"></i>
@@ -271,55 +275,10 @@
       </div>
       <div class="row mt-4">
         <div class="col-md-12 d-flex justify-content-center">
-          <ul class="list-unstyled d-flex portofolio-filters">
-            <li data-filter="*" class="py-2 px-4 filter-active text-white">ALL</li>
-            <li data-filter=".filter-web" class="py-2 px-4">Web</li>
-            <li data-filter=".filter-design" class="py-2 px-4">Design</li>
-            <li data-filter=".filter-photo" class="py-2 px-4">Photography</li>
+        <div class="regular slider slick-initialized slick-slider slick-dotted">
+        <div class="slick-list draggable">
+          <ul class="slick-dots" style="display: block;" role="tablist">
           </ul>
-        </div>
-      </div>
-      <div class="row mt-5">
-        <div class="col-md-12">
-          <div class="mansory portofolio-container">
-            <div class="mansory-sizer"></div>
-            <div class="mansory-item m-2 portofolio-item filter-web">
-              <img src="assets/img/p1.jpg" alt="" class="img-fluid" />
-            </div>
-            <div class="mansory-item m-2 portofolio-item filter-design">
-              <img src="assets/img/p2.jpg" alt="" class="img-fluid" />
-            </div>
-            <div class="mansory-item m-2 portofolio-item filter-design">
-              <img src="assets/img/p3.jpg" alt="" class="img-fluid" />
-            </div>
-            <div class="mansory-item m-2 portofolio-item filter-web">
-              <img src="assets/img/p4.jpg" alt="" class="img-fluid" />
-            </div>
-            <div class="mansory-item m-2 portofolio-item filter-design">
-              <img src="assets/img/p5.jpg" alt="" class="img-fluid" />
-            </div>
-            <div class="mansory-item m-2 portofolio-item filter-photo">
-              <img src="assets/img/p6.jpg" alt="" class="img-fluid" />
-            </div>
-            <div class="mansory-item m-2 portofolio-item filter-web">
-              <img src="assets/img/p7.jpg" alt="" class="img-fluid" />
-            </div>
-            <div class="mansory-item m-2 portofolio-item filter-web">
-              <img src="assets/img/p8.jpg" alt="" class="img-fluid" />
-            </div>
-            <div class="mansory-item m-2 portofolio-item filter-photo">
-              <img src="assets/img/p9.jpg" alt="" class="img-fluid" />
-            </div>
-            <div class="mansory-item m-2 portofolio-item filter-web">
-              <img src="assets/img/p10.jpg" alt="" class="img-fluid" />
-            </div>
-            <div class="mansory-item m-2 portofolio-item filter-design">
-              <img src="assets/img/p11.jpg" alt="" class="img-fluid" />
-            </div>
-            <div class="mansory-item m-2 portofolio-item filter-design">
-              <img src="assets/img/p12.jpg" alt="" class="img-fluid" />
-            </div>
-          </div>
         </div>
       </div>
     </div>
@@ -352,7 +311,7 @@
 
   <!-- footer -->
   <footer class="mt-5">
-    <div class="footer-top bg-dark text-white p-5 ">
+    <div class="footer-top bg-dark text-white p-5">
       <div class="container-fluid">
         <div class="row">
           <div class="col-md-1"></div>
@@ -380,13 +339,13 @@
               <a href="" class="mx-2">
                 <i class="fab fa-twitter fa-2x"></i>
               </a>
-              <a href="" class="mx-2">
+              <a href="https://www.instagram.com/patria_ubpk?igsh=MXg4cGg4bHptcDdtdA==" class="mx-2">
                 <i class="fab fa-instagram fa-2x"></i>
               </a>
-              <a href="" class="mx-2">
+              <a href="https://www.youtube.com/@UnitedTractorsPanduEngineering" class="mx-2">
                 <i class="fab fa-youtube fa-2x"></i>
               </a>
-              <a href="" class="mx-2">
+              <a href="https://www.linkedin.com/company/patriautpe/?originalSubdomain=id" class="mx-2">
                 <i class="fab fa-linkedin fa-2x"></i>
               </a>
             </div>
