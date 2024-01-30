@@ -20,7 +20,7 @@
 
   <div class="card card-outline card-primary">
     <div class="card-header text-center">
-      <img src="img/logopatria" style="width: 120px;" >
+      <img src="{{ asset('img/logopatria.png') }}" alt="Logo" height="40"></a>
     </div>
 
   <div class="text-center">

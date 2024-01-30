@@ -69,66 +69,8 @@ scratch. This page gets rid of all links and provides the needed markup only.
               </p>
             </a>
           </li>
-          <li class="nav-item menu-open">
-            <a href="#" class="nav-link">
-              <i class="nav-icon fas fa-th"></i>
-              <p>
-                Data Master
-                <i class="right fas fa-angle-left"></i>
-              </p>
-            </a>
-            <ul class="nav nav-treeview">
-              <li class="nav-item">
-                <a href="/sliders" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Data Sliders</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="/services" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Data Services</p>
-                </a> 
-              </li>
-              </li>
-              <li class="nav-item">
-                <a href="/features" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Data Features</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="/portofolios" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Data Portofolios</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                  <a href="/clients" class="nav-link">
-                    <i class="far fa-circle nav-icon"></i>
-                    <p>Data Clients</p>
-                  </a>
-              </li>
-            </ul>
-          </li>
           <li class="nav-item">
-            <a href="#" class="nav-link">
-              <i class="nav-icon fas fa-user"></i>
-              <p>
-                Tentang
-              </p>
-            </a>
-          </li>
-          <li class="nav-item">
-            <a href="#" class="nav-link">
-              <i class="nav-icon fas fa-phone"></i>
-              <p>
-                Kontak
-              </p>
-            </a>
-          </li>
-          <li class="nav-item">
-            <a href="#" class="nav-link">
+            <a href="login" class="nav-link">
               <i class="nav-icon fas fa-arrow-left"></i>
               <p>
                 Logout

@@ -18,9 +18,9 @@
   <link rel="stylesheet" href="assets/css/style.css">
 
   <title>PATRIA | UBPK</title>
-</head>
+</head> 
 
-<body>
+<body> 
   <!-- navbar -->
   <nav class="navbar navbar-expand-lg navbar-light bg-white shadow shadow-sm fixed-top fy-3">
     <div class="container">
@@ -32,7 +32,7 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ms-auto">
           <li class="nav-item">
-            <a class="nav-link fw-bolder active" href="index3">Home</a>
+            <a class="nav-link fw-bolder active" href="">Home</a>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link fw-bolder dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
@@ -40,19 +40,19 @@
               About UBPK
             </a> 
             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <li><a class="dropdown-item" href="about">Dept. Production</a></li>
-              <li><a class="dropdown-item" href="team">Dept. Quality</a></li>
-              <li><a class="dropdown-item" href="team">Dept. Support</a></li>
-              <li><a class="dropdown-item" href="team">Dept. SCM</a></li>
-              <li><a class="dropdown-item" href="team">Dept. Engineering</a></li>
+              <li><a class="dropdown-item" href="login">Dept. Production</a></li>
+              <li><a class="dropdown-item" href="">Dept. Quality</a></li>
+              <li><a class="dropdown-item" href="">Dept. Support</a></li>
+              <li><a class="dropdown-item" href="">Dept. SCM</a></li>
+              <li><a class="dropdown-item" href="">Dept. Engineering</a></li>
               </li>
             </ul> 
           </li>
           <li class="nav-item">
-            <a class="nav-link fw-bolder" href="services">Our Product</a>
+            <a class="nav-link fw-bolder" href="OurProduct.html">Our Product</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link fw-bolder" href="portofolio">Our Media Room</a>
+            <a class="nav-link fw-bolder" href="Our Media Room">Our Media Room</a>
           </li>
           <li class="nav-item">
             <a class="nav-link fw-bolder" href="login">Login</a>
@@ -143,28 +143,9 @@
             </li>
             <li class="list-group-item">
               <i class="fa fa-check-double primary"></i>
-              Mission : 1. Prosper with the nation
-                        2. Excel in engineering, research and development 
-                        to provied sustainable value to our stakeholders
-                        3. Create a place for Patrian to grow and give the best 
-                        perfomance
-            </li>
-            <li class="list-group-item">
-              <i class="fa fa-check-double primary"></i>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis,
-              laboriosam?
-            </li>
-            <li class="list-group-item">
-              <i class="fa fa-check-double primary"></i>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis,
-              laboriosam?
+              Mission : Providing sustainable added value for stakeholders.
             </li>
           </ul>
-          <p class="mt-2">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni
-            quisquam facilis impedit. Commodi nesciunt culpa soluta esse
-            temporibus officia veritatis incidunt error porro
-          </p>
         </div>
       </div>
     </div>
@@ -273,13 +254,71 @@
       <div class="title-container">
         <h2 class="text-center fw-bold">Our Media Room</h2>
       </div>
-      <div class="row mt-4">
+      <div class="row mt-2">
         <div class="col-md-12 d-flex justify-content-center">
         <div class="regular slider slick-initialized slick-slider slick-dotted">
         <div class="slick-list draggable">
-          <ul class="slick-dots" style="display: block;" role="tablist">
-          </ul>
         </div>
+        <!-- Blog Start -->
+  <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+      <div class="container py-5">
+          <div class="row g-5">
+              <!-- Blog list Start -->
+              <div class="col-md-4">
+                  <div class="blog-item bg-light rounded overflow-hidden">
+                      <div class="blog-img position-relative overflow-hidden">
+                          <img class="img-fluid" src="assets/img/patria.jpg" alt="">
+                          <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4"></a>
+                      </div>
+                      <div class="p-4">
+                          <div class="d-flex mb-3">
+                              <small class="me-5"><i class="far fa-newspaper text-primary me-2"></i> Senam Rutin bersama karyawan UBPK</small>
+                              <small class="me-1"><i class="far fa-calendar-alt text-primary me-2"></i> 12/01/2024</small>
+                          </div>
+                          <h4 class="mb-3"></h4>
+                          <p></p>
+                          <a class="text-uppercase" href="/blog/">Read More <i class="bi bi-arrow-right"></i></a>
+                      </div>
+                  </div>
+              </div>
+              <div class="col-md-4">
+                <div class="blog-item bg-light rounded overflow-hidden">
+                    <div class="blog-img position-relative overflow-hidden">
+                        <img class="img-fluid" src="assets/img/patria.jpg" alt="">
+                        <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4"></a>
+                    </div>
+                    <div class="p-4">
+                        <div class="d-flex mb-3">
+                            <small class="me-5"><i class="far fa-newspaper text-primary me-2"></i> Senam Rutin bersama karyawan UBPK</small>
+                            <small class="me-1"><i class="far fa-calendar-alt text-primary me-2"></i> 12/01/2024</small>
+                        </div>
+                        <h4 class="mb-3"></h4>
+                        <p></p>
+                        <a class="text-uppercase" href="/blog/">Read More <i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="blog-item bg-light rounded overflow-hidden">
+                    <div class="blog-img position-relative overflow-hidden">
+                        <img class="img-fluid" src="assets/img/patria.jpg" alt="">
+                        <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4"></a>
+                    </div>
+                    <div class="p-4">
+                        <div class="d-flex mb-3">
+                            <small class="me-5"><i class="far fa-newspaper text-primary me-2"></i> Senam Rutin bersama karyawan UBPK</small>
+                            <small class="me-1"><i class="far fa-calendar-alt text-primary me-2"></i> 12/01/2024</small>
+                        </div>
+                        <h4 class="mb-3"></h4>
+                        <p></p>
+                        <a class="text-uppercase" href="ourmediabl">Read More <i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </div>
+              </div>
+          </div>    
+      </div>
+  </div>
+  <!-- Blog End -->
       </div>
     </div>
   </div>
@@ -293,15 +332,15 @@
       </div>
       <div class="row mt-5">
         <div class="col-md-3 pt-5 text-center" data-aos="zoom-in">
-          <a href="#" target="_blank">
+          <a href="#" target="_blank"> </a>
           <img src="assets/img/Y1.png" class="img-fluid brand-image" alt="" />
         </div>
         <div class="col-md-3 pt-5 text-center" data-aos="zoom-in">
-          <a href="https://pml.co.id/" target="_blank">
+          <a href="https://pml.co.id/" target="_blank"> </a>
           <img src="assets/img/Y2.png" class="img-fluid brand-image" alt="" />
         </div>
         <div class="col-md-3 pt-5 text-center" data-aos="zoom-in">
-          <a href="https://patriashipyard.com/en" target="_blank">
+          <a href="https://patriashipyard.com/en" target="_blank"> </a>
           <img src="assets/img/Y3.png" class="img-fluid brand-image" alt="" />
         </div>
       </div>
@@ -311,34 +350,30 @@
 
   <!-- footer -->
   <footer class="mt-5">
-    <div class="footer-top bg-dark text-white p-5">
+    <div class="footer-top bg-dark text-white p-5 ">
       <div class="container-fluid">
         <div class="row">
           <div class="col-md-1"></div>
-          <div class="col-md-3">
+          <div class="col-md-5">
             <h4 class="fw-bold">PT United Tractors Pandu Engineering Plant Kariangau</h2>
               <p>
                 Jl. Balikpapan - Samarinda, Karang Joang, Kec. Balikpapan Utara, Kota Balikpapan, Kalimantan Timur 76127
               </p>
           </div>
-
+        </div>
+      </div>
+    </div>
     <div class="footer-down bg-darker text-white px-5 py-3">
       <div class="container-fluid">
         <div class="row">
           <div class="col-md-1"></div>
-          <div class="col-md-5">
+          <div class="col-md-7">
             <div class="copyright">
               &copy; 2024 <strong>PT United Tractors Pandu Engineering Plant Kariangau all right reserved.</strong>
             </div>
-
-          <div class="col-md-5">
+          </div>
+          <div class="col-md-4">
             <div class="social-links float-end">
-              <a href="" class="mx-2">
-                <i class="fab fa-facebook fa-2x"></i>
-              </a>
-              <a href="" class="mx-2">
-                <i class="fab fa-twitter fa-2x"></i>
-              </a>
               <a href="https://www.instagram.com/patria_ubpk?igsh=MXg4cGg4bHptcDdtdA==" class="mx-2">
                 <i class="fab fa-instagram fa-2x"></i>
               </a>
